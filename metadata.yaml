@@ -1,0 +1,43 @@
+_repo: The-Water-Babies_36309
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Jessie Willcox
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '7158'
+    url: http://www.gutenberg.org/2009/agents/7158
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+covers:
+- cover_type: archival
+  image_path: 36309-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: Readers of every age will delight in this fantastical fairy tale from
+  Charles Kingsley. Tom, a young chimney sweep, comes to a tragically untimely end
+  and is transformed into a mystical creature known as a water baby that resides in
+  a magical sub-aqueous environment. Despite its nineteenth-century vintage, this
+  engrossing fable has important lessons to teach today's readers.
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- England'
+- !lcsh 'Chimney sweeps -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Water-Babies
+url: http://www.gutenberg.org/ebooks/36309
